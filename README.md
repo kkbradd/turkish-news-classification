@@ -22,7 +22,9 @@ Sample data:
 
 ID	Text	Category
 133	"avrupa alışık olmadığını belirtti..."	Siyaset
+
 125	"vicdanlarda kabul görmeyecek siyaseten sor..."	Siyaset
+
 141	"chp kızan hdp ilde aday çıkaracak..."	Siyaset
 
 ## Conclusion
