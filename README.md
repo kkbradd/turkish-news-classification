@@ -20,7 +20,8 @@ Text: The news article content.
 Category: The corresponding label (e.g., Siyaset, Çevre).
 Sample data:
 
-ID	Text	Category
+ID	  Text                                	Category
+
 133	"avrupa alışık olmadığını belirtti..."	Siyaset
 
 125	"vicdanlarda kabul görmeyecek siyaseten sor..."	Siyaset
