@@ -12,6 +12,10 @@ Dataset
 The dataset consists of:
 
 Text: The content of the news article.
+
 Category: The corresponding label (e.g., Siyaset, Çevre).
-Requirements
+
+# Requirements
 Install the necessary packages with:
+pip install -r requirements.txt
+
