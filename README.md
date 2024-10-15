@@ -6,8 +6,11 @@ This project focuses on classifying Turkish news articles into categories such a
 ## Main Steps
 
 Data Loading: Load the dataset containing Turkish news articles and their respective categories.
+
 Preprocessing: Apply text preprocessing such as tokenization, stemming, and cleaning of punctuation and special characters.
+
 Modeling: Train models including Logistic Regression and Random Forest on the cleaned data.
+
 Evaluation: Evaluate the models using accuracy, precision, recall, F1-score, and confusion matrix.
 
 ## Dataset
